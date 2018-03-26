@@ -4,6 +4,7 @@
 /dist
 /tmp
 /out-tsc
+/src/app/Widgets_Modules/etc/config.js
 
 # dependencies
 /node_modules
